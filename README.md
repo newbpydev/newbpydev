@@ -7,6 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbpydev&show_icons=true&theme=radical)
 
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newbpydev" alt="Gift's LangStat" />
+ </div>
+ <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newbpydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
