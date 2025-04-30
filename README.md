@@ -102,18 +102,21 @@ My mission is to build **responsive**, **user-centered** applications with moder
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=newbpydev&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=newbpydev&layout=compact&theme=radical" />
-  <div align="center">
-   <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=newbpydev" 
-        alt="Gift's LangStat" />
-   </div>
-   <br>
-</p>
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbpydev&langs_count=8)
+  ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbpydev&show_icons=true&theme=radical&include_all_commits=true)
+  
 ---
 
  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+  
+<p align="center">
+  <div align="center">
+   <img align="center" 
+     style="display=block"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=newbpydev" 
+        alt="Gift's LangStat" />
+   </div>
+</p>
+   <br>
+
+
