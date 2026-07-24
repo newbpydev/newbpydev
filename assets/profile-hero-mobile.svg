@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title description">
+  <title id="title">Juan Gomez — Software Engineer</title>
+  <desc id="description">Developer tools, AI workflows, and local-first products built with Go and TypeScript.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.52" stop-color="#0d1b31" />
+      <stop offset="1" stop-color="#151c35" />
+    </linearGradient>
+    <radialGradient id="cyan-glow" cx="0" cy="0" r="1" gradientTransform="translate(92 54) rotate(34) scale(330 230)">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".24" />
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="violet-glow" cx="0" cy="0" r="1" gradientTransform="translate(650 330) rotate(-142) scale(360 240)">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".3" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9" />
+      <stop offset="1" stop-color="#a78bfa" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity=".07" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="720" height="360" rx="24" fill="url(#background)" />
+  <rect width="720" height="360" rx="24" fill="url(#grid)" />
+  <rect width="720" height="360" rx="24" fill="url(#cyan-glow)" />
+  <rect width="720" height="360" rx="24" fill="url(#violet-glow)" />
+
+  <path d="M 0 305 C 118 254 224 358 352 304 S 584 256 720 296" fill="none" stroke="url(#accent)" stroke-opacity=".18" stroke-width="2" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="44" y="57" fill="#67e8f9" font-size="18" font-weight="700" letter-spacing="2.4">NEWBPYDEV // SOFTWARE ENGINEER</text>
+    <text x="41" y="137" fill="#f8fafc" font-size="60" font-weight="800" letter-spacing="-2">JUAN GOMEZ</text>
+
+    <text x="44" y="191" fill="#cbd5e1" font-size="27" font-weight="500">Developer Tools · AI Workflows</text>
+    <text x="44" y="229" fill="#cbd5e1" font-size="27" font-weight="500">Local-First Products</text>
+
+    <rect x="44" y="266" width="404" height="2" rx="1" fill="url(#accent)" opacity=".7" />
+    <text x="44" y="308" fill="#bfdbfe" font-size="20" font-weight="700" letter-spacing="1.5">GO / TYPESCRIPT / OPEN SOURCE</text>
+
+    <g transform="translate(566 251)" opacity=".68">
+      <text x="0" y="0" fill="#67e8f9" font-size="56" font-weight="800">&gt;</text>
+      <rect x="46" y="-39" width="42" height="8" rx="4" fill="#a78bfa" />
+    </g>
+  </g>
+
+  <rect x=".75" y=".75" width="718.5" height="358.5" rx="23.25" fill="none" stroke="#94a3b8" stroke-opacity=".14" stroke-width="1.5" />
+</svg>
